@@ -1,0 +1,6 @@
+{
+  "name": "myharness",
+  "version": "0.1.0",
+  "description": "라운드 단위 개발 하네스: verifier · cleaner 에이전트, 위험 명령 · .env 차단 Hook, 편집 후 린트 Hook, round 스킬",
+  "keywords": ["harness", "hooks", "agents", "round"]
+}

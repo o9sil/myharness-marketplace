@@ -1,0 +1,17 @@
+{
+  "name": "myharness-marketplace",
+  "owner": {
+    "name": "myharness"
+  },
+  "metadata": {
+    "description": "practice-m3 하네스(에이전트 · Hook · 스킬)를 다른 프로젝트에서 쓰기 위한 로컬 마켓플레이스"
+  },
+  "plugins": [
+    {
+      "name": "myharness",
+      "source": "./plugins/myharness",
+      "description": "라운드 단위 개발 하네스: verifier · cleaner 에이전트, 위험 명령 · .env 차단 Hook, 편집 후 린트 Hook, round 스킬",
+      "version": "0.1.0"
+    }
+  ]
+}
